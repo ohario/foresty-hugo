@@ -17,11 +17,6 @@
   </url>
   
   <url>
-    <loc>http://example.com/posts/season-6-food-chain/</loc>
-    <lastmod>2014-06-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://example.com/posts/season-6-breezy/</loc>
     <lastmod>2014-06-05T00:00:00+00:00</lastmod>
   </url>
@@ -44,7 +39,7 @@
   
   <url>
     <loc>http://example.com/categories/episodes/</loc>
-    <lastmod>2014-06-12T00:00:00+00:00</lastmod>
+    <lastmod>2014-04-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -56,7 +51,7 @@
   
   <url>
     <loc>http://example.com/categories/season6/</loc>
-    <lastmod>2014-06-12T00:00:00+00:00</lastmod>
+    <lastmod>2014-06-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
