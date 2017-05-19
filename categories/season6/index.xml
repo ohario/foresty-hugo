@@ -1,23 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Adventure Time!</title>
-    <link>http://example.com/index.xml</link>
-    <description>Recent content on Adventure Time!</description>
+    <title>Season6 on Adventure Time!</title>
+    <link>http://example.com/categories/season6/index.xml</link>
+    <description>Recent content in Season6 on Adventure Time!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 May 2017 16:19:56 +0000</lastBuildDate>
-    <atom:link href="http://example.com/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Testing Gallery</title>
-      <link>http://example.com/posts/testing-gallery/</link>
-      <pubDate>Fri, 19 May 2017 16:19:56 +0000</pubDate>
-      
-      <guid>http://example.com/posts/testing-gallery/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://example.com/uploads/2017/05/19/bench-vintage-old-seat.jpg&#34; data-vivaldi-spatnav-clickable=&#34;1&#34; class=&#34; forestry--right forestry--none forestry--none&#34; style=&#34;float: none;&#34;&gt;&lt;/p&gt;
-</description>
-    </item>
+    <atom:link href="http://example.com/categories/season6/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>The Tower (Season 6)</title>
